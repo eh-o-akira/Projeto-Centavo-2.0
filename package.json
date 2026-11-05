@@ -1,0 +1,23 @@
+{
+  "name": "centavo",
+  "version": "1.0.0",
+  "description": "Centavo — sistema de controle financeiro pessoal feito com Vue.js (aplicação One Page).",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "vue": "^3.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.0",
+    "vite": "^7.0.0"
+  }
+}

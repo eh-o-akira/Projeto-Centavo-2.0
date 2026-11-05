@@ -1,0 +1,18 @@
+# Dependências e build
+node_modules
+dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Variáveis locais e arquivos de sistema
+*.local
+.DS_Store
+Thumbs.db
+
+# Editores
+.idea
+*.suo
+*.sw?
